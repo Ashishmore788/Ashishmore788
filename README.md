@@ -1,17 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ashish%20More&fontSize=55&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20MIS%20Analyst%20%7C%20Data%20Scientist&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=IT+Officer+at+HDFC+Bank;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+VBA;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://img.shields.io/badge/BSc-Information%20Technology-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20To-Data%2FMIS%2FDS%20Roles-7C3AED?style=for-the-badge&logo=targetprocess&logoColor=white" />
-
 <img src="dark.svg" alt="GitHub Profile Banner" width="100%"/>
 
 <br/><br/>
