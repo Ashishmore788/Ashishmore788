@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Open%20To-Data%2FMIS%2FDS%20Roles-7C3AED?style=for-the-badge&logo=targetprocess&logoColor=white" />
 
+<img src="dark.svg" alt="GitHub Profile Banner" width="100%"/>
+
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ashish-more-878a2a304"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
