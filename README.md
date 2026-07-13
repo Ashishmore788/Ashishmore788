@@ -38,7 +38,7 @@
 I'm a **Data Analyst / MIS Analyst / Data Scientist** currently working as an **IT Officer at HDFC Bank**, with a strong foundation in data analytics, MIS reporting, and machine learning.
 
 - 📊 I build **MIS reporting systems and dashboards** that cut manual reporting time by ~30% and report turnaround by 40%
-- 🤖 I develop **end-to-end ML pipelines** for real-world prediction problems (churn, attrition, admissions)
+- 🤖 I develop **end-to-end ML pipelines** for real-world prediction problems(churn, attrition, admissions)
 - 📈 I work extensively with **Power BI, DAX, and Advanced Excel (VBA, Macros)** for business intelligence
 - 🏦 I coordinate **application deployments and operational reporting** in a banking environment
 - 🌱 Currently building an **MIS Automation Dashboard** combining Python, PostgreSQL, and Power BI
